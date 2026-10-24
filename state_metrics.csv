@@ -1,0 +1,11 @@
+Transaction_ID,Region,Product_Category,Sales_Amount,Units_Sold,Discount_Percent,Customer_Rating
+1001,South,Electronics,450.50,2,10.0,4.5
+1002,North,Clothing,120.00,4,15.0,3.8
+1003,West,Electronics,899.99,1,5.0,4.9
+1004,East,Home & Kitchen,65.25,3,0.0,4.1
+1005,South,Clothing,210.00,5,20.0,4.2
+1006,North,Electronics,1250.00,2,12.5,4.7
+1007,West,Home & Kitchen,45.00,1,0.0,3.5
+1008,East,Electronics,320.00,3,10.0,4.0
+1009,South,Home & Kitchen,150.75,2,5.0,4.3
+1010,North,Clothing,85.00,2,0.0,3.9

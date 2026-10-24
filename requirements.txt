@@ -1,0 +1,9 @@
+State,Literacy_Rate_Pct,Population_Millions,Crime_Rate_Per_Lakh,Police_Per_100k,Budget_Allocation_Cr
+Telangana,72.8,38.0,195.4,142,4500
+Andhra Pradesh,67.4,53.0,180.2,125,5200
+Karnataka,75.4,67.5,160.8,138,6100
+Tamil Nadu,80.1,76.8,210.5,155,7300
+Maharashtra,82.3,126.4,225.1,162,9400
+Kerala,96.2,35.7,450.2,170,3800
+Gujarat,78.0,70.4,140.6,130,5800
+Rajasthan,66.1,81.0,240.3,118,4900
